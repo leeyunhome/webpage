@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.d157c812.chunk.css",
-    "main.js": "/home/static/js/main.55923a22.chunk.js",
-    "main.js.map": "/home/static/js/main.55923a22.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.051ab3ce.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.051ab3ce.js.map",
-    "static/js/2.3809a5d6.chunk.js": "/home/static/js/2.3809a5d6.chunk.js",
-    "static/js/2.3809a5d6.chunk.js.map": "/home/static/js/2.3809a5d6.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.7605117f6624f0198ca054ab70dc97ee.js": "/home/precache-manifest.7605117f6624f0198ca054ab70dc97ee.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/main.d157c812.chunk.css.map": "/home/static/css/main.d157c812.chunk.css.map",
-    "static/js/2.3809a5d6.chunk.js.LICENSE.txt": "/home/static/js/2.3809a5d6.chunk.js.LICENSE.txt",
-    "static/media/business.jpg": "/home/static/media/business.38ca2240.jpg",
-    "static/media/contacts.jpg": "/home/static/media/contacts.83d35906.jpg",
-    "static/media/intro.jpg": "/home/static/media/intro.440c21cd.jpg",
-    "static/media/nebula.jpg": "/home/static/media/nebula.27eb72c1.jpg"
+    "main.css": "/webpage/static/css/main.d157c812.chunk.css",
+    "main.js": "/webpage/static/js/main.72df4b9c.chunk.js",
+    "main.js.map": "/webpage/static/js/main.72df4b9c.chunk.js.map",
+    "runtime-main.js": "/webpage/static/js/runtime-main.d7241054.js",
+    "runtime-main.js.map": "/webpage/static/js/runtime-main.d7241054.js.map",
+    "static/js/2.ba7ea5bf.chunk.js": "/webpage/static/js/2.ba7ea5bf.chunk.js",
+    "static/js/2.ba7ea5bf.chunk.js.map": "/webpage/static/js/2.ba7ea5bf.chunk.js.map",
+    "index.html": "/webpage/index.html",
+    "precache-manifest.4157a4d129533da123fddce038e8b23d.js": "/webpage/precache-manifest.4157a4d129533da123fddce038e8b23d.js",
+    "service-worker.js": "/webpage/service-worker.js",
+    "static/css/main.d157c812.chunk.css.map": "/webpage/static/css/main.d157c812.chunk.css.map",
+    "static/js/2.ba7ea5bf.chunk.js.LICENSE.txt": "/webpage/static/js/2.ba7ea5bf.chunk.js.LICENSE.txt",
+    "static/media/business.jpg": "/webpage/static/media/business.38ca2240.jpg",
+    "static/media/contacts.jpg": "/webpage/static/media/contacts.83d35906.jpg",
+    "static/media/intro.jpg": "/webpage/static/media/intro.440c21cd.jpg",
+    "static/media/nebula.jpg": "/webpage/static/media/nebula.27eb72c1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.051ab3ce.js",
-    "static/js/2.3809a5d6.chunk.js",
+    "static/js/runtime-main.d7241054.js",
+    "static/js/2.ba7ea5bf.chunk.js",
     "static/css/main.d157c812.chunk.css",
-    "static/js/main.55923a22.chunk.js"
+    "static/js/main.72df4b9c.chunk.js"
   ]
 }
