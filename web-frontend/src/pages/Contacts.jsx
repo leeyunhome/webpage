@@ -4,8 +4,10 @@ import imgContacts from '../components/common/img/contacts.jpg';
 import { Map, GoogleApiWrapper, Marker } from 'google-maps-react';
 import {MdCall } from 'react-icons/md';
 import {FaFax}from 'react-icons/fa';
+require('dotenv').config();
+const {MAP_KEY} = process.env;
 
-const Contacts = ({ google }) => {
+const Contacts = ({ google, store, index, InfoWindow }) => {
   const mapStyles = {
     width: '700px',
     height: '300px',
