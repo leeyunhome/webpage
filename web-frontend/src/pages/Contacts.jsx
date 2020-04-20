@@ -2,8 +2,8 @@ import React from 'react';
 import Header from '../components/common/Header';
 import imgContacts from '../components/common/img/contacts.jpg';
 import { Map, GoogleApiWrapper, Marker } from 'google-maps-react';
-import {MdCall } from 'react-icons/md';
-import {FaFax}from 'react-icons/fa';
+// import {MdCall } from 'react-icons/md';
+// import {FaFax}from 'react-icons/fa';
 require('dotenv').config();
 const {MAP_KEY} = process.env;
 
@@ -20,10 +20,12 @@ const Contacts = ({ google, store, index, InfoWindow }) => {
       서울시 영등포구 양평로22길 21 코오롱디지털타워 605호 　
       <br/>
       <br/>
-      <MdCall /> 02-715-3700
+      {/* <MdCall />  */}
+      02-715-3700
       <br/>
       <br/>
-      <FaFax /> 02-715-3701
+      {/* <FaFax />  */}
+      02-715-3701
       <br/>
       <br/>
       <Map
