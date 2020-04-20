@@ -50,7 +50,7 @@ const Header = ({}) => {
           </Link>
           <div className="right">
             <Button cyan to="/">
-              회사소개
+              회사소개.
             </Button>
             &nbsp;
             <Button cyan to="/business">
